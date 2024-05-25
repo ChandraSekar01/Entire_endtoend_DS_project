@@ -11,9 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      # Navigate to the MkDocs documentation folder
-      # - name: Navigate to MkDocs documentation folder
-      #   run: cd documentation
       - uses: actions/setup-python@v5
         with:
           python-version: 3.x
