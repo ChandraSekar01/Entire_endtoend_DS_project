@@ -2,7 +2,8 @@
 Name:
 Source:
 
-Data Attribute Description
+Data Attribute Description:
+
 | Attribute | Datatype | Description |
 |----------|----------|----------|
 | Row 1    | Data 1   | Data 2   |
