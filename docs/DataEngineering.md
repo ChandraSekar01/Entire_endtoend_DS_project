@@ -1,4 +1,4 @@
-# COde block
+# Code block
 
 ## Plain `Code` block
 ```
